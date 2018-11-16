@@ -1,3 +1,6 @@
+C++ Implementation of 3 correlation filter based visual trackers (KCF, DSST, Staple).
+I refer to "https://github.com/klahaag/cf_tracking" for the implemention of KCF and DSST and make some modification in this project. Moreover, I also implement the Staple with C++.
+
 C++实现的与相关滤波相关的跟踪算法（KCF, DSST, Staple）
 -----------------------------------
 
